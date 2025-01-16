@@ -1,0 +1,10 @@
+[package]
+name = "ffilter"
+version = "0.1.0"
+edition = "2021"
+authors = ["Luca Rossi <lucarossi147@gmail.com>"]
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+ndarray = "0.16"
+num-complex = "0.4"
